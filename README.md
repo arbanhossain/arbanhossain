@@ -1,4 +1,5 @@
-<h3 align="center">Md. Arban Hossain</h3>
+<h2 align="center">Md. Arban Hossain</h2>
+<h4 align="center">Contact: arbanhossain@gmail.com</h4>
 
 
 ### Hello there 👋
@@ -25,5 +26,4 @@
 _Contact me to get access to private repositories!_
 
 - <b>Currently working on </b>: Flutter / Full Stack Web Development
-- <b>Reach me at </b>: arbanhossain [at] gmail [dot] com
 
